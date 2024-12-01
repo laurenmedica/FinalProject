@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "naturaldisasteranalysis",
+  "private_key_id": "82a91b32e5ffa5a8f21ad626f28af669506f4f90",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDKYG+AcpgldydX\ni/Qy/VgeBp0SGJVtEc9cRBThHtVm0zBOhnZfMsD6liJWmQDJJMLQDxrTSvRT1X0X\nmxsccn/ffW3/plPqnh5K2phdkANFZq2GrZ7UAnZBzGxU9MxfkW1a5oZ+MkKODm5m\n2pEwcDvNQqXOSdES18+5Vb2ZVBX9ExEsx8LqSjqUnUiM2wHcihWbkew9bb6hP9v0\nmfQAUMzNeQ0F+Hby3Mue8AXbsRQIy3XELkbK8SutNSwUBNBOuyiOQVStWnYiWPvD\nIeDsHtrGo4BbZXZDFOW7NejIV8hla3zMpQGeBo1viQ5jnHiu67tfUyLrYz10LPO8\nhmj+0eg9AgMBAAECgf8H+JnBCsJzYf4VX1h+/vuO3d58l/tKuyjaZCluXzMzREji\nzukFVuUYTvw17PuFm1e7r4dJoJTUYymfhGciTQrnAp8SiA/wwx7uU9iB1upKEYFE\nN2fKHKQLyMF7lyjK8C9zz8tRrSkcmfTp7YdKdnaPNHt+Dz+Xk73azvBo2acEEL+Q\n9pR/Jbvr0MwyPe/A58WhNyuBStiEiSI5MAIhyqUAqxXvU5J5/F7r5gNzQLO049Jc\nl9AmOzR5YNwdxmAxypLymtVjlWaS4szW2+6OfHZ23G5uPu2f9/W5b8IeqQpcmm0V\nBhwdqjALkBhBXojjEvkctubLIqBmpRe7Gin78HECgYEA8V89VNh4eZFh8ylFdFSR\nuz0euhz1zLUsG+oN3PM0SmrOwjt7Yn+48o3EpOGWqaZiiPmSXKVLWfiF3fOr4qKA\n0Op5d36+yLlro/X1fHGgDFZyHY+kMhTDLcEkK5cfXsRhayOgDIIlnxHIh1TFldMk\nEnlcz41E8osEvdIAlYFSU/ECgYEA1qQ0M9lEfa91P+43NMlW6Vhrlk/4jxMNymO2\n3kcVfQg1zXX5uj7kBbwNS24OFsnckcZtKc/kwemTyPj1sRgeXkRD5c1GCrygJadH\nXApUAFtHE3S+gJZ+HNz2rPPQ6ALx1fI5NUNzq64ih3ETOXFY9q5sdQRTGVSDWM5N\nQW4u9Q0CgYAdaJ4/ZTSgkz8c8m1c9CThbFv/DyI/s99Q816HCjbXzlWswrSQ1sEB\nBJbuA/JobzZYPBhCI32f07DzzwmlTmllivwLvCygpj7gNkqXw/xdJHc49NRrqa3y\nODMhAIO49zJrbGbGv2C4FeGZ45FDZPtjKNhPDYZWCuwj+J9Ll/sg8QKBgALOiOQ4\nrh2aosTgP5aQH3PTtSx1BUIRtLd10Fldwpks908lgMt/sQmmKOJYoRSJNTouxxSp\n5Ero3Abfwo67SwJekCi8I3NWfh2f713zwJ90khxeBXO3BBUqios+cPfnufPbRAY/\nSI7xKwBsaRzyL4CiTUbGdLO7GDCcGgSGBVUtAoGAQt771ZRxuzvOTPGNNqji5x3Y\nGgyN+RkGBUbfr0UXY4bPrsCFC2D2+AgR7Y/SIJpsVmqqzb5t/KDNRADf1AhtqrBW\nAOW+OtWhJ9NBxjQggkyPx401c4lFtbR6sCOc3zQSirujz/uqAYOXw+WIlos8DIdw\nf4WVd5AQcYPMLQo5DTc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "natural-disasters@naturaldisasteranalysis.iam.gserviceaccount.com",
+  "client_id": "105164582188619490602",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/natural-disasters%40naturaldisasteranalysis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
